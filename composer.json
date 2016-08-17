@@ -1,0 +1,10 @@
+{
+    "require": {
+        "silex/silex": "~2.0",
+        "symfony/routing": "^3.1",
+        "symfony/config": "^3.1",
+        "symfony/security": "^3.1",
+        "symfony/yaml": "^3.1",
+        "symfony/event-dispatcher": "^3.1"
+    }
+}
